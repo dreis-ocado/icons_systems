@@ -95,3 +95,18 @@ img {
 // Nav
 //
 @import './nav.scss';
+
+
+// Page icons
+//
+section {
+  padding: 30px 0;
+
+  &.titlePage {
+    background-color: #f4f6f9;
+    h1 {
+      margin-bottom: 0;
+    }
+  }
+  
+}
