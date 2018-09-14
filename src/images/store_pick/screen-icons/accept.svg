@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="135px" height="135px" viewBox="0 0 135 135" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/ accept big</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon/-accept-big" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="baseline-check_circle-24px-(1)">
+            <polygon id="Shape" points="0 0 135 0 135 135 0 135"></polygon>
+            <path d="M67.5,0 C30.24,0 0,30.24 0,67.5 C0,104.76 30.24,135 67.5,135 C104.76,135 135,104.76 135,67.5 C135,30.24 104.76,0 67.5,0 Z M54,101.25 L20.25,67.5 L29.7675,57.9825 L54,82.1475 L105.2325,30.915 L114.75,40.5 L54,101.25 Z" id="Shape" fill="#8CC152" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

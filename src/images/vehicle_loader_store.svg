@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>van loader icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-73.000000, -4.000000)">
+            <g id="van-loader-icon" transform="translate(73.000000, 4.000000)">
+                <rect id="Rectangle-Copy-2" fill="#FFFFFF" x="0" y="0" width="20" height="20"></rect>
+                <g id="Group-2" transform="translate(1.000000, 1.000000)">
+                    <g id="noun_546306" fill="#4A4A4A">
+                        <g id="Group">
+                            <path d="M7.20645244,2.28759661 L7.20645244,1.47352298 L2.4235953,1.47352298 L2.4235953,3.10167025 L5.61216673,3.10167025 L5.61216673,14.1730716 L7.20645244,14.1730716 L7.20645244,2.28759661 Z M7.20645244,12.5449244 L15.177881,12.5449244 L15.177881,14.1730716 L7.20645244,14.1730716 L7.20645244,12.5449244 Z" id="Shape" transform="translate(8.800738, 7.823297) rotate(-15.000000) translate(-8.800738, -7.823297) "></path>
+                            <rect id="Rectangle-path" transform="translate(11.185094, 9.362100) rotate(-15.000000) translate(-11.185094, -9.362100) " x="8.15595143" y="7.24550851" width="6.05828571" height="4.23318288"></rect>
+                            <rect id="Rectangle-path" transform="translate(9.988429, 4.801376) rotate(-15.000000) translate(-9.988429, -4.801376) " x="6.959286" y="2.68478454" width="6.05828571" height="4.23318288"></rect>
+                            <ellipse id="Oval" transform="translate(7.320821, 14.789651) rotate(-15.000000) translate(-7.320821, -14.789651) " cx="7.32082051" cy="14.789651" rx="2.55085714" ry="2.60503562"></ellipse>
+                        </g>
+                    </g>
+                    <ellipse id="Oval-5" fill="#FFFFFF" cx="7.5" cy="15" rx="1.5" ry="2"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+@import 'scss/colors.scss';
+
+.footer {
+  min-height: 80px;
+  hr {
+    border-color: $red;
+    border-width: 3px;
+    max-width: 50px;
+  }
+}

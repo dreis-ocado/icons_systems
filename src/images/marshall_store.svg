@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>marshaler icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-38.000000, -4.000000)">
+            <g id="marshaler-icon" transform="translate(38.000000, 4.000000)">
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="20" height="20"></rect>
+                <g id="Group" transform="translate(3.000000, 2.000000)" fill-rule="nonzero" fill="#4A4A4A">
+                    <path d="M11.5555556,1.5 L8.53666667,1.5 C8.23333333,0.63 7.43888889,-8.8817842e-16 6.5,-8.8817842e-16 C5.56111111,-8.8817842e-16 4.76666667,0.63 4.46333333,1.5 L1.44444444,1.5 C0.65,1.5 0,2.175 0,3 L0,13.5 C0,14.325 0.65,15 1.44444444,15 L11.5555556,15 C12.35,15 13,14.325 13,13.5 L13,3 C13,2.175 12.35,1.5 11.5555556,1.5 Z M6.5,1.5 C6.89722222,1.5 7.22222222,1.8375 7.22222222,2.25 C7.22222222,2.6625 6.89722222,3 6.5,3 C6.10277778,3 5.77777778,2.6625 5.77777778,2.25 C5.77777778,1.8375 6.10277778,1.5 6.5,1.5 Z M7.94444444,12 L2.88888889,12 L2.88888889,10.5 L7.94444444,10.5 L7.94444444,12 Z M10.1111111,9 L2.88888889,9 L2.88888889,7.5 L10.1111111,7.5 L10.1111111,9 Z M10.1111111,6 L2.88888889,6 L2.88888889,4.5 L10.1111111,4.5 L10.1111111,6 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
