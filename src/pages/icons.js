@@ -16,11 +16,6 @@ class Icons extends React.Component {
       <Layout location={location}>
         <Meta site={siteMetadata} title="Icons" />
         <div>
-          <section className="titlePage">
-            <div className="container">
-              <h1>Icons</h1>
-            </div>
-          </section>
 
           <section className="iconsBlock">
             <div className="container">
