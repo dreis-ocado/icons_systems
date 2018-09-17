@@ -43,4 +43,4 @@ Two more general questions (**added from Aeris meeting 17/09/2018)
 1. Do we need icons? Why?
 2. What are the priority icons to have?
 
-[Click here for icons library](./icons)
+[Click here for icons library](/icons)
