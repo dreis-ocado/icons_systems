@@ -110,3 +110,14 @@ section {
   }
   
 }
+
+// Post
+//
+
+h3, h4, h5, h6, .h3, .h4, .h5, .h6 {
+  margin-top: 2.5rem;
+}
+
+.article .content .h3:first-child, .article .content h3:first-child {
+  margin-top: 1.5rem;
+}

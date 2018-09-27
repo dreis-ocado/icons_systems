@@ -10,10 +10,6 @@ class Navi extends React.Component {
           <Link className="col-md-12" to="/">
             <h1 className="navbar-brand mb-0">{title}</h1>
           </Link>
-          <div className="navbar-nav-scroll col-md-12">
-            <ul className="navbar-nav bd-navbar-nav flex-column">
-            </ul>
-          </div>
           <div className="navbar-nav flex-row ml-md-auto d-none d-md-flex" />
         </div>
       </nav>

@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Icons',
+    title: 'Icons for Aeris',
     description: 'Icons for now',
     siteUrl: 'https://aeris.netlify.com',
     author: 'David',
