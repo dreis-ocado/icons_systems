@@ -40,7 +40,7 @@ __Where?__
 
 <img src="./justyna.jpg" alt="Justyna">
 
-###Kazka
+###Kaska
 __Why?__
 
 Almost no use of icons - Tried to stay faithful to Aeris as much as possible on her first project so didn't want to risk using icons due to lack of guidelines. Also not sure if we are using Fontawesome Pro / Regular / Light.
